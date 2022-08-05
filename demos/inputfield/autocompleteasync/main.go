@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	"github.com/gdamore/tcell/v2"
-	"github.com/rivo/tview"
+	"github.com/sruehl/tview"
 )
 
 type company struct {

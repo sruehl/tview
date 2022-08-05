@@ -1,7 +1,7 @@
 // Demo code for the DropDown primitive.
 package main
 
-import "github.com/rivo/tview"
+import "github.com/sruehl/tview"
 
 func main() {
 	app := tview.NewApplication()
